@@ -1,0 +1,23 @@
+{
+  "name": "401-data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suadtalafha/401-data-structures-and-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suadtalafha/401-data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/suadtalafha/401-data-structures-and-algorithms#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
